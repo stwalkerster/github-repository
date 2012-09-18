@@ -9,6 +9,7 @@ $wgExtensionCredits['hook'][] = array(
 	'name' => 'GitHub Repository',
 	'descriptionmsg' => 'githubrepository-desc',
 	'author' => array('Simon Walker'),
+	'url' => 'https://github.com/stwalkerster/github-repository',
 );
 
 $directory = dirname( __FILE__ );
